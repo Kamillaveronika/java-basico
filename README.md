@@ -1,2 +1,2 @@
 # java-basico
-para curso Java básico
+Repositório para curso Java básico
